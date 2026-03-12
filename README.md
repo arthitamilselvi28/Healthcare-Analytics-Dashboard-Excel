@@ -12,11 +12,6 @@ This project presents a Healthcare Analytics Dashboard created using Excel to an
 ## Tools Used
 - Microsoft Excel
 
-## Project File
-```
-Healthcare_Analytics_Dashboard.xlsx
-```
-
 ## Purpose of the Project
 The goal of this project is to demonstrate basic healthcare data analysis and dashboard creation using Excel.
 
